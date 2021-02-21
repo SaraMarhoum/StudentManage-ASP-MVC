@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqPJLD0OCWKsPCAx9iBq/ugu7AoacF7p+br7pHpIAuhOhtAHziK2dNychy/7i71r3v8JkML6q+MmO/C8EkWSdg==",
+  "dgSpecHash": "6jE5JXFh250szVZITZ+9mpiV0D7/M3Lq0hOqJG+XppaP7P28SMxxVP39RXIo5SsNuIhFcQrNRanH3CO0hoI5PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Youcode\\source\\repos\\Authentificaton\\Authentificaton\\Authentificaton.csproj",
+  "projectFilePath": "C:\\Users\\Youcode\\Desktop\\StudentManage-ASP-MVC\\Authentificaton\\Authentificaton\\Authentificaton.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Youcode\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\5.0.3\\microsoft.aspnetcore.authentication.facebook.5.0.3.nupkg.sha512",

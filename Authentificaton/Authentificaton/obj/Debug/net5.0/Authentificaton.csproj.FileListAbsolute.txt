@@ -170,3 +170,14 @@ C:\Users\Youcode\source\repos\Authentificaton\Authentificaton\bin\Debug\net5.0\l
 C:\Users\Youcode\source\repos\Authentificaton\Authentificaton\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
 C:\Users\Youcode\source\repos\Authentificaton\Authentificaton\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
 C:\Users\Youcode\source\repos\Authentificaton\Authentificaton\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.RazorAssemblyInfo.cache
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.RazorAssemblyInfo.cs
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.dll
+C:\Users\Youcode\Desktop\StudentManage-ASP-MVC\Authentificaton\Authentificaton\obj\Debug\net5.0\Authentificaton.pdb

@@ -7525,11 +7525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youcode\\source\\repos\\Authentificaton\\Authentificaton\\Authentificaton.csproj",
+      "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\StudentManage-ASP-MVC\\Authentificaton\\Authentificaton\\Authentificaton.csproj",
       "projectName": "Authentificaton",
-      "projectPath": "C:\\Users\\Youcode\\source\\repos\\Authentificaton\\Authentificaton\\Authentificaton.csproj",
+      "projectPath": "C:\\Users\\Youcode\\Desktop\\StudentManage-ASP-MVC\\Authentificaton\\Authentificaton\\Authentificaton.csproj",
       "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youcode\\source\\repos\\Authentificaton\\Authentificaton\\obj\\",
+      "outputPath": "C:\\Users\\Youcode\\Desktop\\StudentManage-ASP-MVC\\Authentificaton\\Authentificaton\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
